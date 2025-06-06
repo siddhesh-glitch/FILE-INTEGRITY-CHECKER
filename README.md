@@ -49,3 +49,6 @@ This project demonstrates the practical application of cryptographic hash functi
 
 ![Image](https://github.com/user-attachments/assets/9d0994c2-2fb6-417e-bd46-f18abc08c4d0)
 ![Image](https://github.com/user-attachments/assets/5296889d-71e9-4fb7-ac81-7216acc0554d)
+![Image](https://github.com/user-attachments/assets/ebaa1d60-5538-4acb-8520-231c1d62ea63)
+![Image](https://github.com/user-attachments/assets/8c125917-f769-454d-bde1-4608e9c6e0a3)
+

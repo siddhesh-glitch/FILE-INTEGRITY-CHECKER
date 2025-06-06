@@ -47,5 +47,5 @@ Reporting: The script outputs a summary of any detected changes. This helps user
 ✅ Outcome
 This project demonstrates the practical application of cryptographic hash functions in security monitoring. It helped develop skills in secure coding, scripting, and Linux-based tool development. It also illustrates how basic principles of cybersecurity can be implemented with simple yet effective automation.
 
-
+![Image](https://github.com/user-attachments/assets/9d0994c2-2fb6-417e-bd46-f18abc08c4d0)
 
